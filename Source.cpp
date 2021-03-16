@@ -13,7 +13,6 @@ Node* delFromStack(Node* current, bool* isEmpty);
 int findFinal(Node* findFinal);
 string infToPost(string str);
 
-
 int main() {
 	setlocale(LC_ALL, "ru");
 	bool isEmpty = true;
